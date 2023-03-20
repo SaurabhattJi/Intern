@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(56, 56, 162);
+}
+#root {
+    display: grid;
+    place-items: center;
+    margin-top: 10rem;
+}
